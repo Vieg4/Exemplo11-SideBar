@@ -7,6 +7,7 @@ import Home from  './routes/Home/Home.jsx'
 import Exemplo1 from './routes/Paginas/Exemplo1.jsx'
 import Exemplo2 from './routes/Paginas/Exemplo2.jsx'
 
+
 const router=createBrowserRouter([{
   path:'/',element:<App/>,
   errorElement:<Error/>,
